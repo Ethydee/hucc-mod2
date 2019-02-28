@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hucc",
+  "name": "Hucc Mod",
+  "description": "Trash Mod That Does Nothing",
+  "version": "0.2a",
+  "mcversion": "1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Barnes"],
+  "credits": "Ron and Hucc for peeing really good",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
