@@ -12,13 +12,13 @@
     {
         "R":
         {
-            "item": "hucc:ron_ingot"
+            "item": "hucc:hucc_ingot"
         }
     },
     
     "result":
     {
-        "item": "hucc:ron_block",
+        "item": "hucc:hucc_block",
         "count": 1
     }
 }

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " P ",
+        " P ",
+        " R "
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "hucc:hucc_ingot"
+        },
+        
+                "R":
+        {
+            "item": "minecraft:stick"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "hucc:hucc_sword",
+        "count": 1
+    }
+}
