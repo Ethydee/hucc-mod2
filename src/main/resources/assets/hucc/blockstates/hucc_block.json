@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "hucc:hucc_block" }
+    }
+}

@@ -8,6 +8,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
+import com.barnes.huccmod.init.ModRecipes;
 import com.barnes.huccmod.proxy.CommonProxy;
 import com.barnes.huccmod.util.Reference;;
 
@@ -29,7 +30,8 @@ public class Main
 	@EventHandler
 	public static void Init(FMLInitializationEvent event) 
 	{
-		System.out.println("ron");
+		ModRecipes.init(); 
+		System.out.println("Recipes Loaded!");
 	}
 	
 	@EventHandler

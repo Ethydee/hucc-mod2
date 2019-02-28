@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "hucc:hucc_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "hucc:hucc_block",
+        "count": 1
+    }
+}

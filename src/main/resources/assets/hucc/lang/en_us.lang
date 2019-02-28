@@ -1,2 +1,13 @@
+
+//Items
 item.ron.name=Ron Ingot
 item.hucc_ingot.name=Hucc Ingot
+item.hucc_sword.name=Hucc Sword
+item.hucc_pickaxe.name=Hucc Pickaxe
+item.hucc_axe.name=Hucc Axe
+item.hucc_hoe.name=Hucc Hoe
+item.hucc_shovel.name=Hucc Shovel
+
+//Blocks
+tile.ron_block.name=Block of Ron
+tile.hucc_block.name=Block of Hucc
