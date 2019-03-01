@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " HH",
+        " SH ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "H":
+        {
+            "item": "hucc:hucc_ingot"
+        },
+        
+                "S":
+        {
+            "item": "minecraft:stick"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "hucc:hucc_axe",
+        "count": 1
+    }
+}
