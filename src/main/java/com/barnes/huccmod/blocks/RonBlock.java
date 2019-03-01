@@ -13,7 +13,7 @@ public class RonBlock extends BlockBase
 		
 		setSoundType(SoundType.METAL);
 		setHardness(0.5F);
-		setResistance(6000.0f);
+		setResistance(6000.0F);
 		setHarvestLevel("pickaxe", 1);
 		
 	}
